@@ -15,6 +15,7 @@ after-login-command = []
 after-startup-command = []
 
 # Start AeroSpace at login
+## NOTE: Default is set to false
 start-at-login = true
 
 # Normalizations. See: https://nikitabobko.github.io/AeroSpace/guide#normalization
