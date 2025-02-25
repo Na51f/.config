@@ -46,6 +46,7 @@ key-mapping.preset = 'qwerty'
 #                 In this example, 24 is a default value when there is no match.
 #                 Monitor pattern is the same as for 'workspace-to-monitor-force-assignment'.
 #                 See: https://nikitabobko.github.io/AeroSpace/guide#assign-workspaces-to-monitors
+## NOTE: Set padding between edges of screen and between apps to 10 pixels. Default is 0 for all.
 [gaps]
 inner.horizontal = 10
 inner.vertical =   10
